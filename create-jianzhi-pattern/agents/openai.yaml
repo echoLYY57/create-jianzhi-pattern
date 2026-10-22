@@ -1,0 +1,4 @@
+interface:
+  display_name: "剪纸图样生成"
+  short_description: "将照片、插画或描述转成可手工剪刻的红色剪纸图样"
+  default_prompt: "使用 $create-jianzhi-pattern 将这张图片转为标准版可剪刻剪纸，并导出匹配的 PNG 和 SVG。"
